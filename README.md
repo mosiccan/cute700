@@ -2,7 +2,7 @@ WooWon👊
 ------
 - Sophomore Course in __Multimedia Engineering__  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cute700&layout=compact?theme=dark)](https://github.com/cute700/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cute700&layout=compact&theme=vue-dark)](https://github.com/cute700/github-readme-stats)    
 
 <h2 align="center">Be learning</h2>
 <p align="center"> 
@@ -10,7 +10,7 @@ WooWon👊
   
 <h2 align="center">Intersted in</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&Color=white"/> <img src="https://img.shields.io/badge/Android-3DDC84style=flat&logo=Android&LogoColor=ffffff"/></p>    
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&Color=white"/> <img src="https://img.shields.io/badge/Android-ffffff?style=flat&logo=android&LogoColor=3DDC84"/></p>    
   
  
 <h2 align="center">Me</h2>
