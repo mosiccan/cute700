@@ -19,5 +19,8 @@ WooWon👊
 
 💡 Me
 ---
-><a href="mailto:cute_700@naver.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-03C75A?style=flat&logo=Naver&logoColor=white"/></a> <a href="https://www.instagram.com/now_idemo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&Color=white"/>
+
+<a href="https://www.instagram.com/now_idemo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&Color=white"/><br>
+
+<a href="mailto:cute_700@naver.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-03C75A?style=flat&logo=Naver&logoColor=white"/></a> : <a href="mailto:mail@gmail.com">cute_700@naver.com</a>
 <br>
