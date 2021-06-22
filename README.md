@@ -9,7 +9,7 @@ WooWon👊
 
 ✏ Be learning 
 ---
-><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&Color=white"/></p>    
+><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&Color=white"/></p>    
 <br>
 
 🔎 Intersted in 
@@ -19,8 +19,5 @@ WooWon👊
 
 💡 Me
 ---
-
-<a href="https://www.instagram.com/now_idemo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Github&Color=white"/><br>
-
-<a href="mailto:cute_700@naver.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-03C75A?style=flat&logo=Naver&logoColor=white"/></a> : <a href="mailto:mail@gmail.com">cute_700@naver.com</a>
+><a href="mailto:700cute@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tech Blog-181717?style=flat&logo=Github&Color=white"/>
 <br>
