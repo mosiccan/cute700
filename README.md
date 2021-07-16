@@ -1,15 +1,16 @@
 💻 WooWon's GitHub
 ------
-Learning programming.<br><br>
+Learning programming.<br>
+<br>
 
 ✏ Be learning 
 ---
-><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&Color=white"/></p>    
+><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&Color=white"/>    
 <br>
 
 🔎 Intersted in 
 ---
-><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&Color=white"/> <img src="https://img.shields.io/badge/Android-ffffff?style=flat&logo=android&LogoColor=3DDC84"/>  
+> PS, 
 <br>
 
 💡 Me
